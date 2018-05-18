@@ -1,0 +1,127 @@
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.FormChucNang.QuanLy.frmQuanLyTiecCuoi.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.KhachHang.KhachHang.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Nhan_Vien.ThemNV.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.DatTiec.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.TimTiec.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.Cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.FormChucNang.QuanLy.frmQuanLyTiecCuoi.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.KhachHang.KhachHang.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Nhan_Vien.ThemNV.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.DatTiec.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.TimTiec.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.Cache
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyKhachHang.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.FormChucNang.QuanLy.frmQuanLyTiecCuoi.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.KhachHang.KhachHang.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Nhan_Vien.ThemNV.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.DatTiec.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoi.Tiec.TimTiec.resources
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.Cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyKhachHang.resources
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.Cache
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyMonAn.resources
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.FormFeature.QuanLy.frmQuanLyNhanVien.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmCa.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyKhachHang.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyMonAn.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.FormFeature.QuanLy.frmQuanLyNhanVien.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.Cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLySanh.resources
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyLoaiSanh.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe.config
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\BUS.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DAO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csprojAssemblyReference.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmCa.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyKhachHang.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyLoaiSanh.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyMonAn.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.FormFeature.QuanLy.frmQuanLyNhanVien.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLySanh.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmMain.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.Properties.Resources.resources
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.GenerateResource.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.csproj.CopyComplete
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.exe
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\QuanLyTiecCuoi\obj\Debug\QuanLyTiecCuoiUI.frmQuanLyDichVu.resources

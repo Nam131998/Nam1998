@@ -1,0 +1,26 @@
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DTO\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DTO\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DTO\obj\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DTO\obj\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DTO\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DTO\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DTO\obj\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DTO\obj\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DTO\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DTO\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DTO\obj\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DTO\obj\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DTO\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DTO\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,56 @@
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\obj\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\BUS\obj\Debug\BUS.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\BUS.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\obj\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\BUS\obj\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\obj\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\BUS\obj\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\BUS.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DAO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\BUS\obj\Debug\BUS.pdb

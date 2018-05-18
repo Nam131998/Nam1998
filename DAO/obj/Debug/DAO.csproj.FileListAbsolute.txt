@@ -1,0 +1,44 @@
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\obj\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy\QuanLyTiecCuoi\DAO\obj\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\bin\Debug\DTO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\obj\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi\DAO\obj\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\obj\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi - Copy (2)\QuanLyTiecCuoi\DAO\obj\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.pdb
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.dll
+D:\Github\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.pdb
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.dll
+C:\Users\Tri Tue\Desktop\first Time\Quan-Ly-Tiec-Cuoi\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DAO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\bin\Debug\DTO.pdb
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.dll
+C:\Users\Nam\Desktop\Quan-Ly-Tiec-Cuoi-master\Quan-Ly-Tiec-Cuoi-master\QuanLyTiecCuoi_ChiaForm\DAO\obj\Debug\DAO.pdb
